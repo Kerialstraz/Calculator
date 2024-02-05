@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FXtheWin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FXtheWin_jar</output-path>
+    <root id="archive" name="FXtheWin.jar">
+      <element id="module-output" name="FXtheWin" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-21.0.2/lib/javafx.web.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
